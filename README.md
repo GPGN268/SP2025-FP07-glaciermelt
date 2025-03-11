@@ -6,7 +6,7 @@ Final project repo for the glacier melt runoff effect on ocean current
 - Aucklynn Sacco
 
 ## Summary:
-As a result of the global rise in temperatures, the Greenland ice sheet and the Antarctic ice sheet are beginnning to melt, introducing large amounts of freshwater in the ocean. This introduction of freshwater may impact the overall salinity of the ocean, which then may impact deep-ocean currents.
+With global temperatures rising, Earth's two ice sheets, Greenland and Antarctica, have been melting, introducing large amounts of freshwater into the ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
 
 ## Introductory Background Information:
 
