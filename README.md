@@ -32,3 +32,11 @@ With global temperatures rising, Earth's two ice sheets, Greenland and Antarctic
 - [Datasheet - Greenland and Antarctic Ice Sheet Melt](https://www.nasa.gov/wp-content/uploads/2023/06/antarcticicemass-classroomdatasheet.pdf?emrc=636650)
 - [USGS Alaska Science Center - Glacier Wide Mass Balance](https://alaska.usgs.gov/products/data.php?dataid=79)
 - [NSIDC - Global Glaciers](https://nsidc.org/data/glims)
+
+## Tools and Packages:
+
+## Planned Methodology:
+
+## Expected Outcomes:
+
+## References
