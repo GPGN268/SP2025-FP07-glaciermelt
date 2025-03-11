@@ -20,9 +20,10 @@ With global temperatures rising, Earth's two ice sheets, Greenland and Antarctic
 - How do variations in ocean salinity correspond to shifts in ocean surface currents and deep-water circulation patterns?
 
 **Objectives:**
--
--
--
+- Analyze changes in glacier melt over time 
+- Analyze changes in salinity over time
+- Analyze changes in ocean current over time
+- Piece together data to see if there is an association between glacier melt and changes in ocean current using change in salinity. 
 
 ## Data Sets: 
 - [ESA Sea furcace Salinity](https://catalogue.ceda.ac.uk/uuid/ecc355e395ed4c5597c613ae7f9c53b0/)
