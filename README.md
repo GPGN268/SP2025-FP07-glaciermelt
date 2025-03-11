@@ -9,6 +9,7 @@ Final project repo for the glacier melt runoff effect on ocean current
 With global temperatures rising, Earth's two ice sheets, Greenland and Antarctica, have been melting, introducing large amounts of freshwater into the ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
 
 ## Introductory Background Information:
+Accelerated glacial melt has been a concern for many reasons in recent times, one of which is the potential that this melt will weaken ocean currents. An analysis done on the Atlantic ocean currents specifically predicts that the weakening of these currents will lead to a significant decrease in temperatures in North American and parts of Eurasia [1]. This is because the Gulf Stream, the major ocean current in the north Atlantic, circulates warmer waters from the equator up towards Greenland, where the water cools and sinks, traveling back down the the equator. If the Gulf Stream ceases to perform this circulation, the warm water near the equator will not travel northward [1]. Greenland is generally melting at a faster rate than Antarctica, hence the general focus on the northern oceans, but both ice sheets average out to have hundreds of billions of tons of melting each year [2]. With Greenland and Antarctica holding about 99% of the Earth's freshwater ice, this mass introduction of freshwater, which appears to increase each year, could drastically change the ocean's salinity, thus disrupting the ocean currents [1][2].
 
 ## Problem Statement, Questions and Objectives: 
 
@@ -40,3 +41,6 @@ With global temperatures rising, Earth's two ice sheets, Greenland and Antarctic
 ## Expected Outcomes:
 
 ## References
+- [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
+- [2]“‘Devastating’ melt of Greenland and Antarctic ice sheets is found,” NBC News. https://www.nbcnews.com/science/environment/devastating-melt-greenland-antarctic-ice-sheets-found-rcna80616
+‌
