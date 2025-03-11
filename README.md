@@ -10,6 +10,20 @@ With global temperatures rising, Earth's two ice sheets, Greenland and Antarctic
 
 ## Introductory Background Information:
 
+## Problem Statement, Questions and Objectives: 
+
+**Problem Statement:** We are going to analyse how glacier melt impacts ocean salinity and see if that has an affect on deep-sea currents. 
+
+**Questions:**  
+- What are the potential effects of declining salinity on deep-sea currents?
+- How has glacier mass loss from Greenland, Antarctica, and Alaska contributed to changes in ocean salinity over time?
+- How do variations in ocean salinity correspond to shifts in ocean surface currents and deep-water circulation patterns?
+
+**Objectives:**
+-
+-
+-
+
 ## Data Sets: 
 - [ESA Sea furcace Salinity](https://catalogue.ceda.ac.uk/uuid/ecc355e395ed4c5597c613ae7f9c53b0/)
 - [OSCAR Surface Currents](https://podaac.jpl.nasa.gov/dataset/OSCAR_L4_OC_INTERIM_V2.0)
