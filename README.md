@@ -39,6 +39,7 @@ Accelerated glacial melt has been a concern for many reasons in recent times, on
 ## Planned Methodology:
 
 ## Expected Outcomes:
+We expect to see from our data sets that the mass lost in Greenland and Antarctica is significant and has been increasing over the years, that the overall salinity of the oceans, particularly the Atlantic and Arctic oceans, has gone down over the years, and that the ocean currents have been weakening over the years.
 
 ## References
 - [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
