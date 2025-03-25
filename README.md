@@ -4,6 +4,7 @@ Final project repo for the glacier melt runoff effect on ocean current
 ## Group Members:
 - Raquel Dickinson
 - Aucklynn Sacco
+- Anna George
 
 ## Summary:
 With global temperatures rising, Earth's two ice sheets, Greenland and Antarctica, have been melting, introducing large amounts of freshwater into the ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
@@ -35,9 +36,36 @@ Accelerated glacial melt has been a concern for many reasons in recent times, on
 - [NSIDC - Global Glaciers](https://nsidc.org/data/glims)
 
 ## Tools and Packages:
+We will use the following tools and packages for data analysis, visualization, and statistical computations:
+- [Pandas](https://pandas.pydata.org/)** – For loading, cleaning, and manipulating large datasets.  
+- [Matplotlib](https://matplotlib.org/)** – For creating plots and visualizing trends over time.  
+- [NumPy](https://numpy.org/)** – For numerical computations, especially handling arrays and large datasets.  
+- [SciPy](https://scipy.org/)** – For performing statistical analysis, such as correlation tests.  
+- [netCDF4](https://unidata.github.io/netcdf4-python/)** – For working with netCDF files, a common format for climate and oceanographic data.
+- [Jupyter Notebook](https://jupyter.org/)** – For interactive analysis, combining code, explanations, and visualizations in one document.  
+- [NASA Earthdata Tools](https://earthdata.nasa.gov/)** – For accessing, downloading, and visualizing NASA climate datasets.  
 
 ## Planned Methodology:
-
+- Data Collection and Preprocessing
+  -  Download Necessary Data Sets as listed in Data Sets section.
+  -  Clean and organize Data.
+  -  This would include identifying any missing data, converting all data into comparable formats, combining data sets that can be combined, removing blatant anomolies, etc.
+- Analysis of Glacier Melt Over Time
+   - Plot the mass changes of Greenland, Antarctica, and Alaskan glaciers over time.
+   - Identify trends of mass loss, which shows rate of ice loss.
+- Analysis of Ocean Salinity Over Time
+    - Examine time-series data on salinity, focusing on regions affected by glacial melt like the atlantic ocean.
+    - Visualize changes with hope to show major salinity loss near melting glaciers.
+ - Analysis of Ocean Currents Over Time
+     - Analyze OSCAR surface current data and look for variations over time that might be linked to decreasing salinity as shown by changes in time.
+     - Specifically we will focus where there is more likely to be a change from silinity, again the atlantic ocean.
+ - Correlation Analysis
+     - Perform statistical analysis to examine basic correlations between glacier melt, salinity changes, and ocean current shifts.
+     - If there is changed in ocean current that correlate to changes in salinity that can be easily compared using visuals.
+  - Visualizations and Conclusions
+      - Though we might have been creating visualizations along the way, if we have not then we will be sure to create them now.
+      - Use these visualizations to prove our conlcusions, and reate clear plots and maps that visualize trends and relationships.
+     
 ## Expected Outcomes:
 We expect to see from our data sets that the mass lost in Greenland and Antarctica is significant and has been increasing over the years, that the overall salinity of the oceans, particularly the Atlantic and Arctic oceans, has gone down over the years, and that the ocean currents have been weakening over the years.
 
