@@ -74,7 +74,7 @@ We will use the following tools and packages for data analysis, visualization, a
 We expect to see from our data sets that the mass lost in Greenland and Antarctica is significant and has been increasing over the years, that the overall salinity of the oceans, particularly the Atlantic and Arctic oceans, has gone down over the years, and that the ocean currents have been weakening over the years.
 
 ## Challanges: 
-We are currently having a really hard time finding usable data. Either there is no data or data with a million (exaggerating) files. We spent multiple hours trying to locate data with no success, are there any tips in finding usable data?   
+Currently, the biggest challenge is finding usable and relavant data. Most data on the topic are separated in different data sets by year, making it a challenge to comprehensively analyzie trends over time. We are looking into finding a better process to find viable data sets.
 
 ## References
 - [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
