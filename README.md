@@ -28,7 +28,7 @@ Accelerated glacial melt has been a concern for many reasons in recent times, on
 - Piece together data to see if there is an association between glacier melt and changes in ocean current using change in salinity. 
 
 ## Data Sets: 
-** We are unsure about these datasets, we are having a really hardtime finding usable data - these did not have data we were able to download but kept them because they are the only ones we have ** 
+**We are unsure about these datasets, we are having a really hardtime finding usable data - these did not have data we were able to download but kept them because they are the only ones we have** 
 - [ESA Sea furcace Salinity](https://catalogue.ceda.ac.uk/uuid/ecc355e395ed4c5597c613ae7f9c53b0/)
 - [OSCAR Surface Currents](https://podaac.jpl.nasa.gov/dataset/OSCAR_L4_OC_INTERIM_V2.0)
 - [NASA Earthdata - Greenland Icesheet](https://cmr.earthdata.nasa.gov/search/concepts/C2548143452-FEDEO.html)
