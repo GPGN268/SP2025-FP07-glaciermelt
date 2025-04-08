@@ -20,6 +20,7 @@ Accelerated glacial melt has been a concern for many reasons in recent times, on
 - What are the potential effects of declining salinity on deep-sea currents?
 - How has glacier mass loss from Greenland, Antarctica, and Alaska contributed to changes in ocean salinity over time?
 - How do variations in ocean salinity correspond to shifts in ocean surface currents and deep-water circulation patterns?
+- Are there regional differences? 
 
 **Objectives:**
 - Analyze changes in glacier melt over time 
@@ -29,6 +30,8 @@ Accelerated glacial melt has been a concern for many reasons in recent times, on
 
 ## Data Sets: 
 **We are unsure about these datasets, we are having a really hardtime finding usable data - these did not have data we were able to download but kept them because they are the only ones we have** 
+- See data folder for downloaded data, and see notebooks folder for data analysis
+
 - [ESA Sea furcace Salinity](https://catalogue.ceda.ac.uk/uuid/ecc355e395ed4c5597c613ae7f9c53b0/)
 - [OSCAR Surface Currents](https://podaac.jpl.nasa.gov/dataset/OSCAR_L4_OC_INTERIM_V2.0)
 - [NASA Earthdata - Greenland Icesheet](https://cmr.earthdata.nasa.gov/search/concepts/C2548143452-FEDEO.html)
