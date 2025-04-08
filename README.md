@@ -7,18 +7,18 @@ Final project repo for the glacier melt runoff effect on ocean current
 - Anna George
 
 ## Summary:
-With global temperatures rising, Earth's two ice sheets, Greenland and Antarctica, have been melting, introducing large amounts of freshwater into the ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
+With global temperatures rising, one of Earth's two ice sheets, Greenland, have been melting more rapidly, introducing large amounts of freshwater into the Arctic and North Atlantic ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
 
 ## Introductory Background Information:
 Accelerated glacial melt has been a concern for many reasons in recent times, one of which is the potential that this melt will weaken ocean currents. An analysis done on the Atlantic ocean currents specifically predicts that the weakening of these currents will lead to a significant decrease in temperatures in North American and parts of Eurasia [1]. This is because the Gulf Stream, the major ocean current in the north Atlantic, circulates warmer waters from the equator up towards Greenland, where the water cools and sinks, traveling back down the the equator. If the Gulf Stream ceases to perform this circulation, the warm water near the equator will not travel northward [1]. Greenland is generally melting at a faster rate than Antarctica, hence the general focus on the northern oceans, but both ice sheets average out to have hundreds of billions of tons of melting each year [2]. With Greenland and Antarctica holding about 99% of the Earth's freshwater ice, this mass introduction of freshwater, which appears to increase each year, could drastically change the ocean's salinity, thus disrupting the ocean currents [1][2].
 
 ## Problem Statement, Questions and Objectives: 
 
-**Problem Statement:** We are going to analyse how glacier melt impacts ocean salinity and see if that has an affect on deep-sea currents. 
+**Problem Statement:** We are going to analyse how the Greenland ice sheet melting impacts ocean salinity and see if that has an affect on deep-sea currents. 
 
 **Questions:**  
 - What are the potential effects of declining salinity on deep-sea currents?
-- How has glacier mass loss from Greenland, Antarctica, and Alaska contributed to changes in ocean salinity over time?
+- How has glacier mass loss from Greenland contributed to changes in ocean salinity over time?
 - How do variations in ocean salinity correspond to shifts in ocean surface currents and deep-water circulation patterns?
 - Are there regional differences? 
 
@@ -55,10 +55,10 @@ We will use the following tools and packages for data analysis, visualization, a
   -  Clean and organize Data.
   -  This would include identifying any missing data, converting all data into comparable formats, combining data sets that can be combined, removing blatant anomolies, etc.
 - Analysis of Glacier Melt Over Time
-   - Plot the mass changes of Greenland, Antarctica, and Alaskan glaciers over time.
+   - Plot the mass changes of Greenland ice sheet over time.
    - Identify trends of mass loss, which shows rate of ice loss.
 - Analysis of Ocean Salinity Over Time
-    - Examine time-series data on salinity, focusing on regions affected by glacial melt like the atlantic ocean.
+    - Examine time-series data on salinity, focusing on regions affected by glacial melt like the North Atlantic ocean.
     - Visualize changes with hope to show major salinity loss near melting glaciers.
  - Analysis of Ocean Currents Over Time
      - Analyze OSCAR surface current data and look for variations over time that might be linked to decreasing salinity as shown by changes in time.
@@ -71,7 +71,7 @@ We will use the following tools and packages for data analysis, visualization, a
       - Use these visualizations to prove our conlcusions, and reate clear plots and maps that visualize trends and relationships.
      
 ## Expected Outcomes:
-We expect to see from our data sets that the mass lost in Greenland and Antarctica is significant and has been increasing over the years, that the overall salinity of the oceans, particularly the Atlantic and Arctic oceans, has gone down over the years, and that the ocean currents have been weakening over the years.
+We expect to see from our data sets that the mass lost in Greenland is significant and has been increasing over the years, that the overall salinity of the oceans, particularly the Atlantic and Arctic oceans, has gone down over the years, and that the ocean currents have been weakening over the years.
 
 ## Challanges: 
 Currently, the biggest challenge is finding usable and relavant data. Most data on the topic are separated in different data sets by year, making it a challenge to comprehensively analyzie trends over time. We are looking into finding a better process to find viable data sets.
