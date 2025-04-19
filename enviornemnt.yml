@@ -39,6 +39,7 @@ dependencies:
   - contourpy=1.3.1=py312hd5eb7cc_0
   - cpython=3.12.10=py312hd8ed1ab_0
   - cycler=0.12.1=pyhd8ed1ab_1
+  - datashader=0.18.0=pyhd8ed1ab_0
   - debugpy=1.8.14=py312h275cf98_0
   - decorator=5.2.1=pyhd8ed1ab_0
   - defusedxml=0.7.1=pyhd8ed1ab_0
@@ -55,7 +56,10 @@ dependencies:
   - fonttools=4.57.0=py312h31fea79_0
   - fqdn=1.5.1=pyhd8ed1ab_1
   - freetype=2.13.3=h0b5ce68_0
+  - geopandas-base=1.0.1=pyha770c72_3
   - geos=3.13.1=h9ea8674_0
+  - geoviews=1.14.0=hd8ed1ab_0
+  - geoviews-core=1.14.0=pyha770c72_0
   - graphite2=1.3.13=h63175ca_1003
   - h11=0.14.0=pyhd8ed1ab_1
   - h2=4.2.0=pyhd8ed1ab_0
@@ -135,6 +139,7 @@ dependencies:
   - libzip=1.11.2=h3135430_0
   - libzlib=1.3.1=h2466b09_2
   - linkify-it-py=2.0.3=pyhd8ed1ab_1
+  - llvmlite=0.44.0=py312h1f7db74_1
   - lz4-c=1.10.0=h2466b09_1
   - markdown=3.6=pyhd8ed1ab_0
   - markdown-it-py=3.0.0=pyhd8ed1ab_1
@@ -146,6 +151,7 @@ dependencies:
   - mdurl=0.1.2=pyhd8ed1ab_1
   - mistune=3.1.3=pyh29332c3_0
   - mkl=2024.2.2=h66d3029_15
+  - multipledispatch=0.6.0=pyhd8ed1ab_1
   - munkres=1.1.4=pyh9f0ad1d_0
   - narwhals=1.35.0=pyhd8ed1ab_0
   - nbclient=0.10.2=pyhd8ed1ab_0
@@ -155,6 +161,7 @@ dependencies:
   - netcdf4=1.7.2=nompi_py312h57e6fe7_101
   - notebook=7.4.0=pyhd8ed1ab_0
   - notebook-shim=0.2.4=pyhd8ed1ab_1
+  - numba=0.61.2=py312hcccf92d_0
   - numpy=2.2.4=py312h3150e54_0
   - openjpeg=2.5.3=h4d64b90_0
   - openssl=3.5.0=ha4e3fda_0
@@ -180,6 +187,7 @@ dependencies:
   - pthread-stubs=0.4=h0e40799_1002
   - pure_eval=0.2.3=pyhd8ed1ab_1
   - pycparser=2.22=pyh29332c3_1
+  - pyct=0.5.0=pyhd8ed1ab_1
   - pygments=2.19.1=pyhd8ed1ab_0
   - pyparsing=3.2.3=pyhd8ed1ab_1
   - pyproj=3.7.1=py312h5ea471a_1
@@ -220,6 +228,7 @@ dependencies:
   - tinycss2=1.4.0=pyhd8ed1ab_0
   - tk=8.6.13=h5226925_1
   - tomli=2.2.1=pyhd8ed1ab_1
+  - toolz=1.0.0=pyhd8ed1ab_1
   - tornado=6.4.2=py312h4389bb4_0
   - tqdm=4.67.1=pyhd8ed1ab_1
   - traitlets=5.14.3=pyhd8ed1ab_1
