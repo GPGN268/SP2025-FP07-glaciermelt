@@ -41,13 +41,16 @@ Accelerated glacial melt has been a concern for many reasons in recent times, on
 
 ## Tools and Packages:
 We will use the following tools and packages for data analysis, visualization, and statistical computations:
-- [Pandas](https://pandas.pydata.org/)** – For loading, cleaning, and manipulating large datasets.  
-- [Matplotlib](https://matplotlib.org/)** – For creating plots and visualizing trends over time.  
-- [NumPy](https://numpy.org/)** – For numerical computations, especially handling arrays and large datasets.  
-- [SciPy](https://scipy.org/)** – For performing statistical analysis, such as correlation tests.  
-- [netCDF4](https://unidata.github.io/netcdf4-python/)** – For working with netCDF files, a common format for climate and oceanographic data.
-- [Jupyter Notebook](https://jupyter.org/)** – For interactive analysis, combining code, explanations, and visualizations in one document.  
-- [NASA Earthdata Tools](https://earthdata.nasa.gov/)** – For accessing, downloading, and visualizing NASA climate datasets.  
+- [Pandas](https://pandas.pydata.org/) – For loading, cleaning, and manipulating large datasets.  
+- [Matplotlib](https://matplotlib.org/) – For creating plots and visualizing trends over time.  
+- [NumPy](https://numpy.org/) – For numerical computations, especially handling arrays and large datasets.  
+- [SciPy](https://scipy.org/) – For performing statistical analysis, such as correlation tests.
+- [XArray](https://xarray.dev/) - For simplifying multi-dimensioned arrays
+- [HvPlot](https://hvplot.holoviz.org/) - For visualizing data
+- [GeoViews](https://geoviews.org/) - For visualizing geographic data 
+- [netCDF4](https://unidata.github.io/netcdf4-python/) – For working with netCDF files, a common format for climate and oceanographic data.
+- [Jupyter Notebook](https://jupyter.org/) – For interactive analysis, combining code, explanations, and visualizations in one document.  
+- [NASA Earthdata Tools](https://earthdata.nasa.gov/) – For accessing, downloading, and visualizing NASA climate datasets.  
 
 ## Planned Methodology:
 - Data Collection and Preprocessing
