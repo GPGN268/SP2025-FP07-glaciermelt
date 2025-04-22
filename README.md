@@ -67,6 +67,8 @@ We will use the following tools and packages for data analysis, visualization, a
      
 ## Results Summary 
 
+After analysing the data on ocean salinity over time from Argo floats climatology data around Greenland. We see a decrease in salinity over time, averaging a decrease in 0.05388 PSU/decade [3]. 
+
 ## Contribution Statement
 
 **Aucklynn**: 
@@ -78,3 +80,4 @@ We will use the following tools and packages for data analysis, visualization, a
 ## References 
 - [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
 - [2]“‘Devastating’ melt of Greenland and Antarctic ice sheets is found,” NBC News. https://www.nbcnews.com/science/environment/devastating-melt-greenland-antarctic-ice-sheets-found-rcna80616
+- - [3] https://sio-argo.ucsd.edu/RG_Climatology.html
