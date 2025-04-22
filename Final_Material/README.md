@@ -67,13 +67,13 @@ We will use the following tools and packages for data analysis, visualization, a
      
 ## Results Summary 
 
+## Contribution Statement
+
 **Aucklynn**: 
 
 **Raquel**: 
 
 **Anna**:
-
-## Contribution Statement
 
 ## References 
 - [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
