@@ -67,6 +67,12 @@ We will use the following tools and packages for data analysis, visualization, a
      
 ## Results Summary 
 
+**Aucklynn**: 
+
+**Raquel**: 
+
+**Anna**:
+
 ## Contribution Statement
 
 ## References 
