@@ -10,6 +10,22 @@ Final project repo for the glacier melt runoff effect on ocean current
 With global temperatures rising, one of Earth's two ice sheets, Greenland, have been melting more rapidly, introducing large amounts of freshwater into the Arctic and North Atlantic ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
 
 ## Using this Repository
+/data/: contains raw datasets (mass loss from GRACE/GRACE-FO, salinity from Argo climatology, current velocity from OSCAR)
+
+/notebooks/: main Jupyter notebooks for each analysis step:
+
+current_analysis.ipynb: cleaning and analysing current
+
+greenland-mass-plot.ipynb: cleans and plots greenland mass
+
+relating-previous-plots.ipynb: relates all of the cleaned data and tests correlation
+
+salinity_analysis_dev.ipynb: cleans and plots salinity data
+
+surface-velocioty-lot.ipynb: cleans and plots surface velocity data
+
+README.md: project overview, instructions, and findings
+
 
 ## Introduction 
 Accelerated glacial melt has been a concern for many reasons in recent times, one of which is the potential that this melt will weaken ocean currents. An analysis done on the Atlantic ocean currents specifically predicts that the weakening of these currents will lead to a significant decrease in temperatures in North American and parts of Eurasia [1]. This is because the Gulf Stream, the major ocean current in the north Atlantic, circulates warmer waters from the equator up towards Greenland, where the water cools and sinks, traveling back down the the equator. If the Gulf Stream ceases to perform this circulation, the warm water near the equator will not travel northward [1]. Greenland is generally melting at a faster rate than Antarctica, hence the general focus on the northern oceans, but both ice sheets average out to have hundreds of billions of tons of melting each year [2]. With Greenland and Antarctica holding about 99% of the Earth's freshwater ice, this mass introduction of freshwater, which appears to increase each year, could drastically change the ocean's salinity, thus disrupting the ocean currents [1][2].
