@@ -6,54 +6,49 @@ Final project repo for the glacier melt runoff effect on ocean current
 - Aucklynn Sacco
 - Anna George
 
-## Summary:
+## Project Summary: 
 With global temperatures rising, one of Earth's two ice sheets, Greenland, have been melting more rapidly, introducing large amounts of freshwater into the Arctic and North Atlantic ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
 
-## Introductory Background Information:
+## Using this Repository
+
+## Introduction 
 Accelerated glacial melt has been a concern for many reasons in recent times, one of which is the potential that this melt will weaken ocean currents. An analysis done on the Atlantic ocean currents specifically predicts that the weakening of these currents will lead to a significant decrease in temperatures in North American and parts of Eurasia [1]. This is because the Gulf Stream, the major ocean current in the north Atlantic, circulates warmer waters from the equator up towards Greenland, where the water cools and sinks, traveling back down the the equator. If the Gulf Stream ceases to perform this circulation, the warm water near the equator will not travel northward [1]. Greenland is generally melting at a faster rate than Antarctica, hence the general focus on the northern oceans, but both ice sheets average out to have hundreds of billions of tons of melting each year [2]. With Greenland and Antarctica holding about 99% of the Earth's freshwater ice, this mass introduction of freshwater, which appears to increase each year, could drastically change the ocean's salinity, thus disrupting the ocean currents [1][2].
 
-## Problem Statement, Questions and Objectives: 
+### Problem Statement:
+We are going to analyse how the Greenland ice sheet melting impacts ocean salinity and see if that has an affect on deep-sea currents.
 
-**Problem Statement:** We are going to analyse how the Greenland ice sheet melting impacts ocean salinity and see if that has an affect on deep-sea currents. 
-
-**Questions:**  
+### Questions:
 - What are the potential effects of declining salinity on deep-sea currents?
 - How has glacier mass loss from Greenland contributed to changes in ocean salinity over time?
 - How do variations in ocean salinity correspond to shifts in ocean surface currents and deep-water circulation patterns?
-- Are there regional differences? 
 
-**Objectives:**
-- Analyze changes in glacier melt over time 
+### Objectives:
+
+- Analyze changes in glacier melt over time
 - Analyze changes in salinity over time
 - Analyze changes in ocean current over time
-- Piece together data to see if there is an association between glacier melt and changes in ocean current using change in salinity. 
+- Piece together data to see if there is an association between glacier melt and changes in ocean current using change in salinity.
 
-## Data Sets: 
-**We are unsure about these datasets, we are having a really hardtime finding usable data - these did not have data we were able to download but kept them because they are the only ones we have** 
-- See data folder for downloaded data, and see notebooks folder for data analysis
+### Images/Tables 
 
-- [ESA Sea furcace Salinity](https://catalogue.ceda.ac.uk/uuid/ecc355e395ed4c5597c613ae7f9c53b0/)
-- [OSCAR Surface Currents](https://podaac.jpl.nasa.gov/dataset/OSCAR_L4_OC_INTERIM_V2.0)
-- [NASA Earthdata - Greenland Icesheet](https://cmr.earthdata.nasa.gov/search/concepts/C2548143452-FEDEO.html)
-- [Datasheet - Greenland and Antarctic Ice Sheet Melt](https://www.nasa.gov/wp-content/uploads/2023/06/antarcticicemass-classroomdatasheet.pdf?emrc=636650)
-- [USGS Alaska Science Center - Glacier Wide Mass Balance](https://alaska.usgs.gov/products/data.php?dataid=79)
-- [NSIDC - Global Glaciers](https://nsidc.org/data/glims)
-
-## Tools and Packages:
+## Tools/Packages
 We will use the following tools and packages for data analysis, visualization, and statistical computations:
-- [Pandas](https://pandas.pydata.org/)** – For loading, cleaning, and manipulating large datasets.  
-- [Matplotlib](https://matplotlib.org/)** – For creating plots and visualizing trends over time.  
-- [NumPy](https://numpy.org/)** – For numerical computations, especially handling arrays and large datasets.  
-- [SciPy](https://scipy.org/)** – For performing statistical analysis, such as correlation tests.  
-- [netCDF4](https://unidata.github.io/netcdf4-python/)** – For working with netCDF files, a common format for climate and oceanographic data.
-- [Jupyter Notebook](https://jupyter.org/)** – For interactive analysis, combining code, explanations, and visualizations in one document.  
-- [NASA Earthdata Tools](https://earthdata.nasa.gov/)** – For accessing, downloading, and visualizing NASA climate datasets.  
+- [Pandas](https://pandas.pydata.org/) – For loading, cleaning, and manipulating large datasets.  
+- [Matplotlib](https://matplotlib.org/) – For creating plots and visualizing trends over time.  
+- [NumPy](https://numpy.org/) – For numerical computations, especially handling arrays and large datasets.  
+- [SciPy](https://scipy.org/) – For performing statistical analysis, such as correlation tests.
+- [XArray](https://xarray.dev/) - For simplifying multi-dimensioned arrays
+- [HvPlot](https://hvplot.holoviz.org/) - For visualizing data
+- [GeoViews](https://geoviews.org/) - For visualizing geographic data 
+- [netCDF4](https://unidata.github.io/netcdf4-python/) – For working with netCDF files, a common format for climate and oceanographic data.
+- [Jupyter Notebook](https://jupyter.org/) – For interactive analysis, combining code, explanations, and visualizations in one document.  
+- [NASA Earthdata Tools](https://earthdata.nasa.gov/) – For accessing, downloading, and visualizing NASA climate datasets.
 
-## Planned Methodology:
+## Project Methodology/Approach 
 - Data Collection and Preprocessing
   -  Download Necessary Data Sets as listed in Data Sets section.
-  -  Clean and organize Data.
-  -  This would include identifying any missing data, converting all data into comparable formats, combining data sets that can be combined, removing blatant anomolies, etc.
+  -  Clean and organize Data in seperate notebooks
+    - This would include identifying any missing data, converting all data into comparable formats, combining data sets that can be combined, removing blatant anomolies, etc.
 - Analysis of Glacier Melt Over Time
    - Plot the mass changes of Greenland ice sheet over time.
    - Identify trends of mass loss, which shows rate of ice loss.
@@ -70,13 +65,19 @@ We will use the following tools and packages for data analysis, visualization, a
       - Though we might have been creating visualizations along the way, if we have not then we will be sure to create them now.
       - Use these visualizations to prove our conlcusions, and reate clear plots and maps that visualize trends and relationships.
      
-## Expected Outcomes:
-We expect to see from our data sets that the mass lost in Greenland is significant and has been increasing over the years, that the overall salinity of the oceans, particularly the Atlantic and Arctic oceans, has gone down over the years, and that the ocean currents have been weakening over the years.
+## Results Summary 
 
-## Challanges: 
-Currently, the biggest challenge is finding usable and relavant data. Most data on the topic are separated in different data sets by year, making it a challenge to comprehensively analyzie trends over time. We are looking into finding a better process to find viable data sets.
+After analysing the data on ocean salinity over time from Argo floats climatology data around Greenland. We see a decrease in salinity over time, averaging a decrease in 0.05388 PSU/decade [3]. Doing a correlation test we get a moderate negative correlation between mass loss and salinity. This shows that as Greenland loses ice more rapidly, salinity tends toi drop. This shows what we would expect to see because as freshwater melts into the ocean we get more dilution. From this test, we also see mass loss and current have a weak positive correlation, showing that there is a slight tendency that ice loss increases ocean strengths. We aso get that salinity and current have a weak negative correlation so there is a slight tendency for high salinity to cause slower currents. 
 
-## References
+## Contribution Statement
+
+**Aucklynn**: 
+
+**Raquel**: 
+
+**Anna**:
+
+## References 
 - [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
 - [2]“‘Devastating’ melt of Greenland and Antarctic ice sheets is found,” NBC News. https://www.nbcnews.com/science/environment/devastating-melt-greenland-antarctic-ice-sheets-found-rcna80616
-‌
+- - [3] https://sio-argo.ucsd.edu/RG_Climatology.html
