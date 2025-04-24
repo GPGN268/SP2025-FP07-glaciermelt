@@ -67,7 +67,9 @@ We will use the following tools and packages for data analysis, visualization, a
      
 ## Results Summary 
 
-After analysing the data on ocean salinity over time from Argo floats climatology data around Greenland. We see a decrease in salinity over time, averaging a decrease in 0.05388 PSU/decade [3]. Doing a correlation test we get a moderate negative correlation between mass loss and salinity. This shows that as Greenland loses ice more rapidly, salinity tends toi drop. This shows what we would expect to see because as freshwater melts into the ocean we get more dilution. From this test, we also see mass loss and current have a weak positive correlation, showing that there is a slight tendency that ice loss increases ocean strengths. We aso get that salinity and current have a weak negative correlation so there is a slight tendency for high salinity to cause slower currents. 
+After analysing the data on ocean salinity over time from Argo floats climatology data around Greenland. We see a decrease in salinity over time, averaging a decrease in 0.05388 PSU/decade [3]. Doing a correlation test we get a moderate negative correlation between mass loss and salinity. This shows that as Greenland loses ice more rapidly, salinity tends to drop. This shows what we would expect to see because as freshwater melts into the ocean we get more dilution. From this test, we also see mass loss and current have a weak positive correlation, showing that there is a slight tendency that ice loss increases ocean strengths. We also get that salinity and current have a weak negative correlation so there is a slight tendency for high salinity to cause slower currents. 
+
+The overall trend showed a general increase in ocean current strength, which goes against the hypothesis. One reason this may have been our result is because the sea ice breaking off of Greenland could be churning the surface of the water, thus increasing sea surface velocity. Deep ocean currents may have experienced a different effect, and this is something that future research should explore.
 
 ## Contribution Statement
 
