@@ -67,7 +67,7 @@ We will use the following tools and packages for data analysis, visualization, a
      
 ## Results Summary 
 
-After analysing the data on ocean salinity over time from Argo floats climatology data around Greenland. We see a decrease in salinity over time, averaging a decrease in 0.05388 PSU/decade [3]. 
+After analysing the data on ocean salinity over time from Argo floats climatology data around Greenland. We see a decrease in salinity over time, averaging a decrease in 0.05388 PSU/decade [3]. Doing a correlation test we get a moderate negative correlation between mass loss and salinity. This shows that as Greenland loses ice more rapidly, salinity tends toi drop. This shows what we would expect to see because as freshwater melts into the ocean we get more dilution. From this test, we also see mass loss and current have a weak positive correlation, showing that there is a slight tendency that ice loss increases ocean strengths. We aso get that salinity and current have a weak negative correlation so there is a slight tendency for high salinity to cause slower currents. 
 
 ## Contribution Statement
 
