@@ -111,7 +111,7 @@ The overall trend showed a general increase in ocean current strength, which goe
 - [2]“‘Devastating’ melt of Greenland and Antarctic ice sheets is found,” NBC News. https://www.nbcnews.com/science/environment/devastating-melt-greenland-antarctic-ice-sheets-found-rcna80616
 
 ## Datasets: 
-[1] US EPA, “Climate Change Indicators: Ice Sheets,” www.epa.gov, Mar. 18, 2021. https://www.epa.gov/climate-indicators/climate-change-indicators-ice-sheets
-[2] “Roemmich-Gilson Argo Climatology,” Ucsd.edu, 2019. https://sio-argo.ucsd.edu/RG_Climatology.html (accessed Apr. 24, 2025).
-[3] “Global Total (COPERNICUS-GLOBCURRENT), Ekman and Geostrophic currents at the Surface and 15m,” Copernicus.eu, 2025, doi: https://doi.org/10.48670/mds-00327.
+- [1] US EPA, “Climate Change Indicators: Ice Sheets,” www.epa.gov, Mar. 18, 2021. https://www.epa.gov/climate-indicators/climate-change-indicators-ice-sheets
+- [2] “Roemmich-Gilson Argo Climatology,” Ucsd.edu, 2019. https://sio-argo.ucsd.edu/RG_Climatology.html (accessed Apr. 24, 2025).
+- [3] “Global Total (COPERNICUS-GLOBCURRENT), Ekman and Geostrophic currents at the Surface and 15m,” Copernicus.eu, 2025, doi: https://doi.org/10.48670/mds-00327.
 
