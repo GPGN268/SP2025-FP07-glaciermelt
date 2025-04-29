@@ -103,7 +103,7 @@ The overall trend showed a general increase in ocean current strength, which goe
 
 **Raquel**: 
 
-**Anna**:
+**Anna**: Took data from previous graphs and combined to relate in one graph. Created and updated evironemt.yml. Made presentation. 
 
 ## References 
 - [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
