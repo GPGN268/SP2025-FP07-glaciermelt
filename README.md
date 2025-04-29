@@ -101,7 +101,7 @@ The overall trend showed a general increase in ocean current strength, which goe
 
 **Aucklynn**: Did salinity analysis. Did correlation analysis. Finished README.md File. 
 
-**Raquel**: 
+**Raquel**: I found data for Greenland mass balance and loss over time, and I found the data for ocean current analysis.  I analyzed Greenland mass loss data and ocean current data. I edited the presentation and completed cited all sources and datasets in IEEE. 
 
 **Anna**: Took data from previous graphs and combined to relate in one graph. Created and updated evironemt.yml. Made presentation. 
 
