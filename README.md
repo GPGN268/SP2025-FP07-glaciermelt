@@ -54,8 +54,6 @@ We are going to analyze how the Greenland ice sheet melting impacts ocean salini
 - Analyze changes in ocean current over time
 - Piece together data to see if there is an association between glacier melt and changes in ocean current using change in salinity.
 
-### Images/Tables 
-
 ## Tools/Packages
 We will use the following tools and packages for data analysis, visualization, and statistical computations:
 - [Pandas](https://pandas.pydata.org/) – For loading, cleaning, and manipulating large datasets.  
@@ -97,10 +95,11 @@ After analysing the data on ocean salinity over time from Argo floats climatolog
 The overall trend showed a general increase in ocean current strength, which goes against the hypothesis. One reason this may have been our result is because the sea ice breaking off of Greenland could be churning the surface of the water, thus increasing sea surface velocity. Deep ocean currents may have experienced a different effect, and this is something that future research should explore.
 
 ## Challenges 
-
+- Some of the challenges we faced were finding datasets in formats we were able to use. There was a lot of data that was difficult to access due to size/needing another platform to download the data. We also had a hard time finding data that matched years. 
+- 
 ## Contribution Statement
 
-**Aucklynn**: 
+**Aucklynn**: Did salinity analysis. Did correlation analysis. Finished README.md File. 
 
 **Raquel**: 
 
