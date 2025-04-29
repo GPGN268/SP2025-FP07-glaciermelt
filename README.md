@@ -95,8 +95,9 @@ After analysing the data on ocean salinity over time from Argo floats climatolog
 The overall trend showed a general increase in ocean current strength, which goes against the hypothesis. One reason this may have been our result is because the sea ice breaking off of Greenland could be churning the surface of the water, thus increasing sea surface velocity. Deep ocean currents may have experienced a different effect, and this is something that future research should explore.
 
 ## Challenges 
-- Some of the challenges we faced were finding datasets in formats we were able to use. There was a lot of data that was difficult to access due to size/needing another platform to download the data. We also had a hard time finding data that matched years. 
-- 
+
+Some of the challenges we faced were finding datasets in formats we were able to use. There was a lot of data that was difficult to access due to size/needing another platform to download the data. We also had a hard time finding data that matched years, as some data sets had many years analyzed, while others had more limited times. Another challenge was getting all the data to have the same data and time formatting for the combined plot. 
+
 ## Contribution Statement
 
 **Aucklynn**: Found data for ocean salinityt. Did salinity analysis. Did correlation analysis. Worked on and finished README.md File. 
