@@ -10,7 +10,7 @@ Final project repo for the glacier melt runoff effect on ocean current
 With global temperatures rising, one of Earth's two ice sheets, Greenland, have been melting more rapidly, introducing large amounts of freshwater into the Arctic and North Atlantic ocean. This introduction of freshwater alters ocean salinity, which may weaken ocean currents.
 
 ## Using this Repository
-/data/: contains raw datasets (mass loss from GRACE/GRACE-FO, salinity from Argo climatology, current velocity from OSCAR)
+/data/: contains smaller data sets made from larger data sets
 
 /notebooks/: main Jupyter notebooks for each analysis step:
 
@@ -26,12 +26,21 @@ surface-velocioty-lot.ipynb: cleans and plots surface velocity data
 
 README.md: project overview, instructions, and findings
 
+**To Use this Repository:** 
+
+1. Clone the repository
+2. Download the data
+   a. [Greenland Mass Loss](https://www.epa.gov/climate-indicators/climate-change-indicators-ice-sheets)
+   b. [Salinity] (https://sio-argo.ucsd.edu/RG_Climatology.html)
+   c. [Ocean Currents] (https://doi.org/10.48670/mds-00327.)
+3. Run notebooks in order using Jupyter Lab 
+
 
 ## Introduction 
 Accelerated glacial melt has been a concern for many reasons in recent times, one of which is the potential that this melt will weaken ocean currents. An analysis done on the Atlantic ocean currents specifically predicts that the weakening of these currents will lead to a significant decrease in temperatures in North American and parts of Eurasia [1]. This is because the Gulf Stream, the major ocean current in the north Atlantic, circulates warmer waters from the equator up towards Greenland, where the water cools and sinks, traveling back down the the equator. If the Gulf Stream ceases to perform this circulation, the warm water near the equator will not travel northward [1]. Greenland is generally melting at a faster rate than Antarctica, hence the general focus on the northern oceans, but both ice sheets average out to have hundreds of billions of tons of melting each year [2]. With Greenland and Antarctica holding about 99% of the Earth's freshwater ice, this mass introduction of freshwater, which appears to increase each year, could drastically change the ocean's salinity, thus disrupting the ocean currents [1][2].
 
 ### Problem Statement:
-We are going to analyse how the Greenland ice sheet melting impacts ocean salinity and see if that has an affect on deep-sea currents.
+We are going to analyze how the Greenland ice sheet melting impacts ocean salinity and see if that has an affect on deep-sea currents.
 
 ### Questions:
 - What are the potential effects of declining salinity on deep-sea currents?
@@ -87,6 +96,8 @@ After analysing the data on ocean salinity over time from Argo floats climatolog
 
 The overall trend showed a general increase in ocean current strength, which goes against the hypothesis. One reason this may have been our result is because the sea ice breaking off of Greenland could be churning the surface of the water, thus increasing sea surface velocity. Deep ocean currents may have experienced a different effect, and this is something that future research should explore.
 
+## Challenges 
+
 ## Contribution Statement
 
 **Aucklynn**: 
@@ -98,4 +109,9 @@ The overall trend showed a general increase in ocean current strength, which goe
 ## References 
 - [1] R. van W. US Henk A. Dijkstra, Michael Kliphuis, The Conversation, “If the Atlantic Ocean Loses Circulation, What Happens Next?,” Scientific American. https://www.scientificamerican.com/article/if-the-atlantic-ocean-loses-circulation-what-happens-next/
 - [2]“‘Devastating’ melt of Greenland and Antarctic ice sheets is found,” NBC News. https://www.nbcnews.com/science/environment/devastating-melt-greenland-antarctic-ice-sheets-found-rcna80616
-- - [3] https://sio-argo.ucsd.edu/RG_Climatology.html
+
+## Datasets: 
+[1] US EPA, “Climate Change Indicators: Ice Sheets,” www.epa.gov, Mar. 18, 2021. https://www.epa.gov/climate-indicators/climate-change-indicators-ice-sheets
+[2] “Roemmich-Gilson Argo Climatology,” Ucsd.edu, 2019. https://sio-argo.ucsd.edu/RG_Climatology.html (accessed Apr. 24, 2025).
+[3] “Global Total (COPERNICUS-GLOBCURRENT), Ekman and Geostrophic currents at the Surface and 15m,” Copernicus.eu, 2025, doi: https://doi.org/10.48670/mds-00327.
+
