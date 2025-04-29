@@ -30,9 +30,9 @@ README.md: project overview, instructions, and findings
 
 1. Clone the repository
 2. Download the data
-   a. [Greenland Mass Loss](https://www.epa.gov/climate-indicators/climate-change-indicators-ice-sheets)
-   b. [Salinity] (https://sio-argo.ucsd.edu/RG_Climatology.html)
-   c. [Ocean Currents] (https://doi.org/10.48670/mds-00327.)
+   - [Greenland Mass Loss](https://www.epa.gov/climate-indicators/climate-change-indicators-ice-sheets)
+   - [Salinity](https://sio-argo.ucsd.edu/RG_Climatology.html)
+   - [Ocean Currents](https://doi.org/10.48670/mds-00327.)
 3. Run notebooks in order using Jupyter Lab 
 
 
@@ -99,7 +99,7 @@ The overall trend showed a general increase in ocean current strength, which goe
 - 
 ## Contribution Statement
 
-**Aucklynn**: Did salinity analysis. Did correlation analysis. Finished README.md File. 
+**Aucklynn**: Found data for ocean salinityt. Did salinity analysis. Did correlation analysis. Worked on and finished README.md File. 
 
 **Raquel**: I found data for Greenland mass balance and loss over time, and I found the data for ocean current analysis.  I analyzed Greenland mass loss data and ocean current data. I edited the presentation and completed cited all sources and datasets in IEEE. 
 
